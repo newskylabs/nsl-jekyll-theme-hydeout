@@ -1,3 +1,13 @@
+# -*- mode: gitignore; -*-
+
+# Ignore emacs temporary files
+*~
+\#*\#
+.\#*
+
+# Ignore generated Jekyll files
 _site
 .sass-cache
 .jekyll-metadata
+
+# fin.
